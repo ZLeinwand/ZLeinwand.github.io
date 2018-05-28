@@ -3917,3 +3917,11 @@
 			}
 
 		}
+
+#headshot {
+	width: 300px;
+	height: auto;
+	border-radius: 50px;
+	margin: auto;
+	display: block;
+}
